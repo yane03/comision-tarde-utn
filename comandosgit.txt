@@ -1,0 +1,20 @@
+1.para revisar la configuracion
+
+git --version 
+
+2.configuro nombre de usuario
+
+git config --global user.name "yane"
+
+3. configuro email de correo
+
+git config --global user.email
+
+4. borrar
+
+5.comando para hace comentarios
+control+KC
+
+
+clear
+cls
